@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="1536" height="1024" alt="ChatGPT Image Jul 1, 2026, 05_11_17 PM" src="https://github.com/user-attachments/assets/7e5bdfe9-a4c7-492d-8580-6d4dea1897cf" />
+
+
 # Hi, I'm Bhawesh Kumar Singh 👋
 
 ### Cloud Data Engineer
